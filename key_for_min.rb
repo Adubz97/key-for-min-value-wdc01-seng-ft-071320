@@ -13,4 +13,9 @@ name_hash.each do |key, value|
   else
     if minimum_value > value
       minimum_value = value
+      key_of_minimum_value = key
+  end
+end
+end
+key _of_minimum_value
 end
